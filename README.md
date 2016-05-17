@@ -33,4 +33,4 @@ Thanks to ThreeJS data structures, I could create a list of vertice and then bui
 
 
 # License
-MIT (see License file).
+MIT
